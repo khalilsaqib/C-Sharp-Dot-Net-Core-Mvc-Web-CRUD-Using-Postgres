@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp.NetPostgresCrud", "Asp.NetPostgresCrud\Asp.NetPostgresCrud.csproj", "{C71AB7CB-E133-4430-8313-59B1051F9307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C71AB7CB-E133-4430-8313-59B1051F9307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71AB7CB-E133-4430-8313-59B1051F9307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71AB7CB-E133-4430-8313-59B1051F9307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71AB7CB-E133-4430-8313-59B1051F9307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {234B6BB8-7DBD-4DE6-ABCE-9819211A8900}
+	EndGlobalSection
+EndGlobal
